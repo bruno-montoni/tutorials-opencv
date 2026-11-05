@@ -1,0 +1,9 @@
+# Local data
+.DS_Store
+.DS_Store?
+
+# Virtual Env
+.venv/
+
+# YOLO Model (Exceeds Git size limit)
+yolo/yolov3.weights
